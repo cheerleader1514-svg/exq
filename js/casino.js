@@ -3,3 +3,4 @@ if (!navigator.userAgent.includes('Googlebot')) {
 } else {
   console.log("Thanks for visiting my page");
 }
+ 
